@@ -1,0 +1,8 @@
+[package]
+name = "ternary-noether"
+version = "0.1.0"
+edition = "2021"
+description = "Noether's theorem for discrete ternary systems"
+license = "MIT"
+
+[dependencies]
