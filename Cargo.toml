@@ -6,3 +6,4 @@ description = "Noether's theorem for discrete ternary systems"
 license = "MIT"
 
 [dependencies]
+ternary-types = { git = "https://github.com/SuperInstance/ternary-types.git", features = ["std"] }
